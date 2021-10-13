@@ -1,4 +1,4 @@
-# easy-character-counter-asm
+# Easy Character Counter
 A lightweight text editor written in Assembly with built-in character counter and different theme options
 
 ## Theme selection   
